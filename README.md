@@ -1,3 +1,3 @@
 # ESP32_placa_medicao
 
-![Foto placa medição](./fig/placa_medicao.jpg)
+<img src="./fig/placa_medicao.jpg" width="600">
