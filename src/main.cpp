@@ -1,4 +1,6 @@
 /*
+ * Author: j-Lago
+ * 
  * Ferramentas ->
  *    placa: DOIT ESP32 DEVKIT V1
  *    apertar gravação enqunato "Connecting....."
